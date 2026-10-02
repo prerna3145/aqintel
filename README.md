@@ -1,7 +1,7 @@
 # AQIntel
 **Know what you breathed, and why.**
 
-Delhi's AQI apps show a number. AQIntel shows *your* air and explains it.
+Delhi's AQI apps show a number. AQIntel shows *your* air and explains it briefly. 
 
 ## Planned features
 - [ ] Auth + health profiles (asthma, child, elderly, outdoor worker)
